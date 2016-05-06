@@ -1,0 +1,1 @@
+var packageNotInstalled = require('package-not-installed');
