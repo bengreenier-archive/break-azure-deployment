@@ -1,0 +1,22 @@
+{
+  "name": "break-azure-deployment",
+  "version": "1.0.0",
+  "description": "break azure deployment because of an unknown node version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengreenier/break-azure-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengreenier/break-azure-deployment/issues"
+  },
+  "homepage": "https://github.com/bengreenier/break-azure-deployment#readme",
+  "engines": {
+    "node": "0.0.0"
+  }
+}
